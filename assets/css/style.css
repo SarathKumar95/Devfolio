@@ -936,6 +936,9 @@ a:hover {
 
 .work-img img {
   transition: all 1s;
+  display: block;
+  width: 375px;
+  height: auto;
 }
 
 .work-content {
