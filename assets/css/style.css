@@ -1126,33 +1126,6 @@ footer .credits a {
 }
 
 
-/*----------------------------------------------------------------
-#Form
-----------------------------------------------------------------*/
-
-form input{
-  display: block;
-  width: 320px;
-}
-
-form button{
-  display: block;
-  background-color: #0062d3;
-  color: #cde1f8;
-  min-width: 150px;
-  min-height: 40px;
-  box-shadow: none;
-  border-radius: 20px;
-}
-
-form button:hover{
-  color: #0062d3;
-  background-color: #cde1f8;
-  border-color: #cde1f8;
-}
-
-
-
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
